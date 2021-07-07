@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.84e52732.chunk.css",
+    "main.js": "/react-app/static/js/main.fb990bb4.chunk.js",
+    "main.js.map": "/react-app/static/js/main.fb990bb4.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.e9aa31b4.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.e9aa31b4.js.map",
+    "static/js/2.69d40cf0.chunk.js": "/react-app/static/js/2.69d40cf0.chunk.js",
+    "static/js/2.69d40cf0.chunk.js.map": "/react-app/static/js/2.69d40cf0.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "static/css/main.84e52732.chunk.css.map": "/react-app/static/css/main.84e52732.chunk.css.map",
+    "static/js/2.69d40cf0.chunk.js.LICENSE.txt": "/react-app/static/js/2.69d40cf0.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/react-app/static/media/Roboto-Regular.03523cf5.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9aa31b4.js",
+    "static/js/2.69d40cf0.chunk.js",
+    "static/css/main.84e52732.chunk.css",
+    "static/js/main.fb990bb4.chunk.js"
+  ]
+}
